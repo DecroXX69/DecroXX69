@@ -5,12 +5,13 @@ Hey there! 👋 I'm **Rushikesh Palav** — a Fullstack Developer primarily orch
 Expect to find experiments in scalable web apps, attempts at pixel-perfect UIs, and the occasional frantic commit message at 3 AM.
 
 📊 **My GitHub Stats:**
+_(Note: Stats may take time to update due to caching)_
 
-<!-- Replace the username 'DecroXX69' if yours is different -->
 <!-- Added count_private=true to include commits from private repos -->
 [![Rushikesh's GitHub stats](https://github-readme-stats.vercel.app/api?username=DecroXX69&show_icons=true&theme=radical&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DecroXX69&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
-<!-- You can customize the theme= field above (e.g., theme=tokyonight, dracula, github_dark) -->
+<!-- Added hide=jupyter%20notebook to remove it from the list -->
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DecroXX69&layout=compact&theme=radical&hide=jupyter%20notebook)](https://github.com/anuraghazra/github-readme-stats)
+<!-- Customize themes: radical, tokyonight, dracula, github_dark etc. -->
 
 ---
 
@@ -40,11 +41,11 @@ _(Yes, we actually helped sell properties with this! 🎉)_
 
 🛠️ **Skills & Tools**
 
-*   **Frontend:** React.js (Hooks!), JavaScript (ES6+), Redux, HTML5, CSS3, Bootstrap, Vite
+*   **Frontend:** React.js (Hooks!), Next.js, JavaScript (ES6+), Redux, HTML5, CSS3, Bootstrap, Vite, Three.js (Learning!)
 *   **Backend:** Node.js, Express.js, RESTful APIs, JWT
 *   **Databases:** MongoDB (Mongoose), MySQL, AWS DynamoDB
-*   **Cloud & DevOps:** AWS (Amplify, Lambda, S3, IAM), Vercel, Render, Git, GitHub, Performance Optimization (Gzip, PurgeCSS)
-*   **Languages:** JavaScript, Java, Python, C++/C (Used 'em!), SQL
+*   **Cloud & DevOps:** AWS (Amplify, Lambda, S3, IAM), Vercel, Render, Git, GitHub, Performance Optimization (Gzip, PurgeCSS), Apache Basics
+*   **Languages:** JavaScript, Java, Python, C++/C (Used 'em!), SQL, PowerShell (Scripting)
 *   **Tools:** Leaflet.js, Cloudinary, Postman, Nodemailer, Agile/Scrum
 
 ---
@@ -55,12 +56,19 @@ _(Yes, we actually helped sell properties with this! 🎉)_
 ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
 ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
+![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white)
+![Three.js](https://img.shields.io/badge/threejs-black?style=for-the-badge&logo=three.js&logoColor=white)
 ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
+![DynamoDB](https://img.shields.io/badge/Amazon%20DynamoDB-4053D6?style=for-the-badge&logo=Amazon%20DynamoDB&logoColor=white)
+![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
+![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=for-the-badge&logo=apache&logoColor=white)
 ![Vercel](https://img.shields.io/badge/Vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white)
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+![PowerShell](https://img.shields.io/badge/PowerShell-%235391FE.svg?style=for-the-badge&logo=powershell&logoColor=white)
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
 
