@@ -7,7 +7,8 @@ Expect to find experiments in scalable web apps, attempts at pixel-perfect UIs, 
 📊 **My GitHub Stats:**
 
 <!-- Replace the username 'DecroXX69' if yours is different -->
-[![Rushikesh's GitHub stats](https://github-readme-stats.vercel.app/api?username=DecroXX69&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+<!-- Added count_private=true to include commits from private repos -->
+[![Rushikesh's GitHub stats](https://github-readme-stats.vercel.app/api?username=DecroXX69&show_icons=true&theme=radical&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DecroXX69&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 <!-- You can customize the theme= field above (e.g., theme=tokyonight, dracula, github_dark) -->
 
