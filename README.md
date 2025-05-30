@@ -4,14 +4,8 @@ Hey there! 👋 I'm **Rushikesh Palav** — a Fullstack Developer primarily orch
 
 Expect to find experiments in scalable web apps, attempts at pixel-perfect UIs, and the occasional frantic commit message at 3 AM.
 
-📊 **My GitHub Stats:**
-_(Note: Stats may take time to update due to caching)_
-
-<!-- Added count_private=true to include commits from private repos -->
-[![Rushikesh's GitHub stats](https://github-readme-stats.vercel.app/api?username=DecroXX69&show_icons=true&theme=radical&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
-<!-- Added hide=jupyter%20notebook to remove it from the list -->
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DecroXX69&layout=compact&theme=radical&hide=jupyter%20notebook)](https://github.com/anuraghazra/github-readme-stats)
-<!-- Customize themes: radical, tokyonight, dracula, github_dark etc. -->
+# 📊 GitHub Stats:
+![](https://nirzak-streak-stats.vercel.app/?user=Atreusx1&theme=dark&hide_border=false)<br/>
 
 ---
 
