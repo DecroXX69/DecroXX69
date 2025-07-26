@@ -12,7 +12,7 @@ Expect to find experiments in scalable web apps, attempts at pixel-perfect UIs, 
 🚀 **Check Out My Flagship Project!**
 
 See Knightsfinestates in action - a MERN-powered real estate platform where I led the development charge:
-🔗 **[knightsfinestates.com](https://knightsfinestates.com/)**
+🔗 **[knightsfinestates.com](https://knightsfin-estates-1.vercel.app/)**
 _(Yes, we actually helped sell properties with this! 🎉)_
 
 ---
@@ -70,7 +70,7 @@ _(Yes, we actually helped sell properties with this! 🎉)_
 
 🔥 **Featured Projects**
 
-*   🏠 **Knightsfinestates Real Estate Platform** — Led the full-stack MERN development, integrated Cloudinary/Leaflet, and optimized for 100 Lighthouse scores. Drove actual bookings & revenue! ([Live](https://knightsfinestates.com/)) (Repo: Sister Company Website created for Knightsfinestates)
+*   🏠 **Knightsfinestates Real Estate Platform** — Led the full-stack MERN development, integrated Cloudinary/Leaflet, and optimized for 100 Lighthouse scores. Drove actual bookings & revenue! ([Live](https://knightsfin-estates-1.vercel.app/)) (Repo: Sister Company Website created for Knightsfinestates)
 *   🛒 **The Market 360** — Engineered a MERN-based dropshipping & affiliate deal hub with JWT auth. Boosted user growth by 40%! ([Live](https://market-360-frontend-zeta.vercel.app/)) (Repo: Private Client Work)
 *   ✨ **Illuminati Cafe Website** — Designed & implemented a unique neon-themed React site with maps, increasing client traffic 60% & revenue 40%. ([Live](http://www.tkshospitality.com/)) (Repo: Private Client Work)
 *   💹 **GBTrade Forex Website** — Constructed a promotional React site for a Forex client, integrating real-time trading widgets. ([Live](https://gbtrade.io/)) (Repo: Private Client Work)
